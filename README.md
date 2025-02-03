@@ -78,10 +78,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauliyk&show_icons=true&layout=compact&theme=radical" alt="pauliyk" /></p>
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pauliyk&theme=radical" alt="pauliyk" /></p>
 
----
-
-
-<h3 align="left">GitHub Activity Graph:</h3>
+<!-- Contribution Graph -->
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pauliyk&theme=radical" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pauliyk&theme=react-dark" alt="GitHub Contribution Graph" />
 </p>
