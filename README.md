@@ -7,6 +7,16 @@
 
 <p align="left"> <a href="https://x.com/peroxiledev" target="blank"><img src="https://img.shields.io/twitter/follow/peroxiledev?logo=twitter&style=for-the-badge" alt="peroxiledev" /></a> </p>
 
+## ⏳ Coding Activity  
+
+📊 **Weekly Coding Breakdown (WakaTime)**  
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=peroxile&layout=compact&theme=radical)  
+
+🕒 **Total Code Time (VS Code Extension)**  
+![Code Time](https://github-readme-stats.vercel.app/api?username=peroxile&show_icons=true&theme=radical)  
+
+> _"Every second spent coding is a step toward mastery."_ 🚀
+
 - 🔥 I’m currently working on **Advancing my skills in blockchain development.**
 
 - 🌱 I’m currently learning **TON FUNC**
