@@ -60,19 +60,20 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pauliyk&show_icons=true&theme=radical" alt="pauliyk" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pauliyk&theme=radical" alt="pauliyk" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauliyk&show_icons=true&layout=compact&theme=radical" alt="pauliyk" /></p>
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pauliyk&theme=radical" alt="pauliyk" /></p>
-
----
 ## 🛠 Tools & Dev Environment
 
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+<h3 align="left">GitHub Stats:</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pauliyk&show_icons=true&theme=radical" alt="pauliyk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pauliyk&theme=radical" alt="pauliyk" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauliyk&show_icons=true&layout=compact&theme=radical" alt="pauliyk" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pauliyk&theme=radical" alt="pauliyk" /></p>
 
 ---
 
