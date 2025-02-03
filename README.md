@@ -11,8 +11,8 @@
 
 - 🌱 I’m currently learning **TON FUNC**
 
-- 🗂️ I regularly write articles on [X ](https://x.com/PeroxileDev)  &
-  
+- 🗂️ I regularly write articles on [X ](https://x.com/PeroxileDev)
+-   
   [PXR-Labs](https://t.me/PXR_Labs)
 
 
