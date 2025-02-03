@@ -21,14 +21,14 @@
 
 ---
 
-### 🔗 Connect with Me 
+### 🔗 Connect with Me  
 
 <p align="left">
-  <a href="https://x.com/peroxiledev" target="_blank">
-    <img src="https://www.cleanpng.com/png-x-icon-black-and-white-x-in-the-center-7967175/" alt="X (Twitter) - @peroxiledev" height="30" width="30">
+  <a href="https://t.me/Peroxile1" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram - @Peroxile1" height="30" width="30">
   </a>
 </p>
----
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
