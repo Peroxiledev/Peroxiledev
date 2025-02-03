@@ -17,6 +17,7 @@
 
 > _"Every second spent coding is a step toward mastery."_ 🚀
 
+---
 - 🔥 I’m currently working on **Advancing my skills in blockchain development.**
 
 - 🌱 I’m currently learning **TON FUNC**
