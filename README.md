@@ -13,7 +13,7 @@
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=peroxile&layout=compact&theme=radical)  
 
 🕒 **Total Code Time (VS Code Extension)**  
-![Code Time](https://github-readme-stats.vercel.app/api?username=peroxile&show_icons=true&theme=radical)  
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26555%26project%3D%26in=0)](https://codetime.dev)
 
 > _"Every second spent coding is a step toward mastery."_ 🚀
 
