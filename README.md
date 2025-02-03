@@ -11,7 +11,9 @@
 
 - 🌱 I’m currently learning **TON FUNC**
 
-- 🗂️ I regularly write articles on [X (Twitter)](https://x.com/PeroxileDev)
+- 🗂️ I regularly write articles on [X (Twitter)](https://x.com/PeroxileDev) 
+[Telegram](https://t.me/PXR_Labs)
+
 
 - 💬 Ask me about **Linux, Blockchain, Front-End, CyberSec, Trading.**
 
@@ -19,11 +21,13 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/peroxiledev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peroxiledev" height="30" width="40" /></a>
-</p>
+### 🔗 Connect with Me 
 
+<p align="left">
+  <a href="https://x.com/peroxiledev" target="_blank">
+    <img src="https://www.cleanpng.com/png-x-icon-black-and-white-x-in-the-center-7967175/" alt="X (Twitter) - @peroxiledev" height="30" width="30">
+  </a>
+</p>
 ---
 
 <h3 align="left">Languages and Tools:</h3>
@@ -51,6 +55,15 @@
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pauliyk&theme=radical" alt="pauliyk" /></p>
 
 ---
+## 🛠 Tools & Dev Environment
+
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
 
 <h3 align="left">GitHub Activity Graph:</h3>
 <p align="center">
