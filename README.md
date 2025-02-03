@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Peroxile</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hi+There!+👋;I'm+Peroxile!;Welcome+to+My+GitHub+Profile!" />
+</div>
+
 <h3 align="center">A passionate Developer | Web3 Enthusiast | Cyber-Sec & Trading Explorer. Passionate about decentralization, blockchain, and security. Sharing knowledge, building, and making an impact in tech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pauliyk&label=Profile%20views&color=0e75b6&style=flat" alt="pauliyk" /> </p>
