@@ -11,8 +11,8 @@
 
 - 🌱 I’m currently learning **TON FUNC**
 
-- 🗂️ I regularly write articles on [X (Twitter)](https://x.com/PeroxileDev) 
-[Telegram](https://t.me/PXR_Labs)
+- 🗂️ I regularly write articles on [X ](https://x.com/PeroxileDev) 
+  [PXR-Labs](https://t.me/PXR_Labs)
 
 
 - 💬 Ask me about **Linux, Blockchain, Front-End, CyberSec, Trading.**
