@@ -78,7 +78,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pauliyk&show_icons=true&theme=radical" alt="pauliyk" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pauliyk&theme=radical" alt="pauliyk" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauliyk&show_icons=true&layout=compact&theme=radical" alt="pauliyk" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauliyk&show_icons=true&layout=compact&theme=radical" alt="*" /></p>
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pauliyk&theme=radical" alt="pauliyk" /></p>
 
 <!-- Contribution Graph -->
