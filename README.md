@@ -4,9 +4,9 @@
 
 <h3 align="center">A passionate Developer | Web3 Enthusiast | Cyber-Sec & Market Analyst & Trader. Passionate about decentralization, blockchain, and security. Sharing knowledge, building, and making an impact in tech.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pauliyk&label=Profile%20views&color=0e75b6&style=flat" alt="pauliyk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Peroxiledev&label=Profile%20views&color=0e75b6&style=flat" alt="Peroxiledev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pauliyk&margin-w=15&column=7" alt="pauliyk" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Peroxiledev&margin-w=15&column=7" alt="Peroxiledev" /></a> </p>
 
 <p align="left"> <a href="https://x.com/peroxiledev" target="blank"><img src="https://img.shields.io/twitter/follow/peroxiledev?logo=twitter&style=for-the-badge" alt="peroxiledev" /></a> </p>
 
@@ -21,17 +21,12 @@
 > _"Every second spent coding is a step toward mastery."_ 🚀
 
 ---
+
 - 🔥 I’m currently working on **Advancing my skills in blockchain development.**
-
 - 🌱 I’m currently learning **TON FUNC**
-
-- 🗂️ I regularly write articles on [X ](https://x.com/PeroxileDev)
--   
+- 🗂️ I regularly write articles on [X](https://x.com/PeroxileDev)  
   [PXR-Labs](https://t.me/PXR_Labs)
-
-
 - 💬 Ask me about **Linux, Blockchain, Front-End, CyberSec, Trading.**
-
 - 📧 How to reach me **pauliyke108@gmail.com**
 
 ---
@@ -44,8 +39,10 @@
   </a>
 </p>
 
+---
 
-<h3 align="left">Programming Languages:</h3>
+## 🛠 Programming Languages & Tools
+
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="40" height="30"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -57,7 +54,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://soliditylang.org" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/ios-filled/100/4C8BF5/solidity.png" alt="Solidity" width="40" height="40"/>
 </a>
@@ -66,22 +62,16 @@
 
 ---
 
-## 🛠 Tools & Dev Environment
+## 🛠 GitHub Stats  
 
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pauliyk&show_icons=true&theme=radical" alt="pauliyk" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pauliyk&theme=radical" alt="pauliyk" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauliyk&show_icons=true&layout=compact&theme=radical" alt="Pauliyk" /></p>
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pauliyk&theme=radical" alt="pauliyk" /></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Peroxiledev&show_icons=true&theme=radical&cache_seconds=86400" alt="Peroxiledev" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Peroxiledev&theme=radical&cache_seconds=86400" alt="Peroxiledev" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Peroxiledev&show_icons=true&layout=compact&theme=radical&cache_seconds=86400" alt="Peroxiledev" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Peroxiledev&theme=radical" alt="Peroxiledev" />
+</p>
 
 <!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pauliyk&theme=react-dark" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Peroxiledev&theme=react-dark&cache_seconds=86400" alt="GitHub Contribution Graph" />
 </p>
