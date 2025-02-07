@@ -2,7 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hi+There!+👋;I'm+Peroxile!;Welcome+to+My+GitHub+Profile!" />
 </div>
 
-<h3 align="center">A passionate Developer | Web3 Enthusiast | Cyber-Sec & Market Analyst & Trader. Passionate about decentralization, blockchain, and security. Sharing knowledge, building, and making an impact in tech.</h3>
+<h3 align="center">Passionate Developer | Web3 & Cyber-Sec Enthusiast | Market Analyst & Trader | Building, sharing, and driving impact in blockchain & security.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Peroxiledev&label=Profile%20views&color=0e75b6&style=flat" alt="Peroxiledev" /> </p>
 
@@ -41,7 +42,7 @@
 
 ---
 
-## 🛠 Programming Languages & Tools
+## 🛠 Programming Languages:
 
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="40" height="30"/> </a>
