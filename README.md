@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Blockchain Developer | Security Researcher | Digital Economy Explorer  
+  Blockchain Developer | Security Researcher | Digital Economy Explorer |
   Driving impact through blockchain, security, and knowledge sharing.
 </h3>
 
