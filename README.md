@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hi+There!+👋;I'm+Peroxile!;Welcome+to+My+GitHub+Profile!" />
 </div>
 
-<h3 align="center">Passionate Developer | Blockchain Developer | Security Researcher | Digital Economy Explorer | Building, sharing, and driving impact in blockchain & security.
+<h3 align="center">
+  Blockchain Developer | Security Researcher | Digital Economy Explorer  
+  Driving impact through blockchain, security, and knowledge sharing.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Peroxiledev&label=Profile%20views&color=0e75b6&style=flat" alt="Peroxiledev" /> </p>
