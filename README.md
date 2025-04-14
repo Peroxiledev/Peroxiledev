@@ -32,7 +32,7 @@
   </a>
   
   
-  <a href="https://x.com/Peroxiledev" target="_blank">
+  <a href="https://twitter.com/Peroxile1" target="_blank">
     <img src="https://raw.githubusercontent.com/Peroxiledev/Peroxiledev/main/transparent-x-icon-black-and-white-x-in-the-1710888893456.webp" alt="X" height="30" width="30">
 </a>
 
@@ -41,16 +41,16 @@
 </a>
 
 
-<a href="https://mastodon.social/@Peroxiledev" target="_blank">
+<a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/Peroxiledev/Peroxiledev/main/mastodon-icon.png" alt="Mastodon" height="30" width="30">
 </a>
 
-<a href="https://www.reddit.com/u/Paul_peroxile_1234/s/oHutEes3Ip" target="_blank">
+<a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/Peroxiledev/Peroxiledev/main/Reddit_Logo.png" alt="Reddit" height="30" width="30">
 </a>
 
 <a href="https://bsky.app/profile/peroxile1.bsky.social" target="_blank">
-    <img src="https://raw.githubusercontent.com/Peroxiledev/Peroxiledev/main/icon.jpeg" alt="Bluesky" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/Peroxiledev/Peroxiledev/main/icon.jpeg" alt="Bluesky - @peroxile1.bsky.social" height="30" width="30">
 </a>
   
 </p>
@@ -63,7 +63,7 @@
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="40" height="30"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Peroxiledev/Peroxiledev/main/Typescript_logo.svg.png" alt="Typescript" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -81,13 +81,11 @@
 
 ## 🛠 Tools & Dev-Env  
 
-| ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |  
+| ![Terminal](https://img.shields.io/badge/Terminal-333333?style=flat&logo=gnubash&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |  
 |---|---|---|  
 | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |  
 | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) | ![SSH](https://img.shields.io/badge/SSH-333333?style=flat&logo=gnubash&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) |  
-| ![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=flat&logo=wakatime&logoColor=white) | ![Draw.io](https://img.shields.io/badge/Draw.io-FF9900?style=flat&logo=diagramsdotnet&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
-
----
+| ![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=flat&logo=wakatime&logoColor=white) | ![Draw.io](https://img.shields.io/badge/Draw.io-FF9900?style=flat&logo=diagramsdotnet&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
 
 ## 🛠 GitHub Stats  
 
