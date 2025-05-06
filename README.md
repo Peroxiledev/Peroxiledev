@@ -4,8 +4,7 @@
 
 
 <h3 align="center">
-  Blockchain Developer | Security Researcher | Digital Economy Explorer |
-  Driving impact through blockchain, security, and knowledge sharing.
+  Blockchain Developer | Security Researcher | Digital Economy Explorer
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Peroxiledev&label=Profile%20views&color=0e75b6&style=flat" alt="Peroxiledev" /> </p>
