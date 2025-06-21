@@ -4,22 +4,10 @@
 
 
 <h3 align="center">
-  Blockchain Developer | Security Researcher | Digital Economy Explorer
+  Web2#3 Security Researcher| Digital Economy Explorer
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Peroxiledev&label=Profile%20views&color=0e75b6&style=flat" alt="Peroxiledev" /> </p>
-
-
-## ⏳ Coding Activity  
-
-📊 **Weekly Coding Breakdown**  
-[![wakatime](https://wakatime.com/badge/user/b98be6b6-c50a-4bf3-8b16-1284217f21ce.svg)](https://wakatime.com/@dabdb680-8d7c-4445-96e9-be29a97cd84c)
-
-
-🕒 **Code Time**  
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26555%26project%3D%26in=0)](https://codetime.dev)
-
-> _"Every second spent coding is a step toward mastery."_ 🚀
 
 ---
 
@@ -78,13 +66,7 @@
 
 ---
 
-## 🛠 Tools & Dev-Env  
 
-| ![Terminal](https://img.shields.io/badge/Terminal-333333?style=flat&logo=gnubash&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |  
-|---|---|---|  
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |  
-| ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) | ![SSH](https://img.shields.io/badge/SSH-333333?style=flat&logo=gnubash&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) |  
-| ![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=flat&logo=wakatime&logoColor=white) | ![Draw.io](https://img.shields.io/badge/Draw.io-FF9900?style=flat&logo=diagramsdotnet&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
 
 ## 🛠 GitHub Stats  
 
