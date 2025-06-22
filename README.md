@@ -35,10 +35,6 @@
 <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/Peroxiledev/Peroxiledev/main/Reddit_Logo.png" alt="Reddit" height="30" width="30">
 </a>
-
-<a href="https://bsky.app/profile/peroxile1.bsky.social" target="_blank">
-    <img src="https://raw.githubusercontent.com/Peroxiledev/Peroxiledev/main/icon.jpeg" alt="Bluesky - @peroxile1.bsky.social" height="30" width="30">
-</a>
   
 </p>
 
