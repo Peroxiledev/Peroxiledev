@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-  Web2#3 Security Researcher| Digital Economy Explorer
+  Security Researcher| Digital Economy Explorer
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Peroxiledev&label=Profile%20views&color=0e75b6&style=flat" alt="Peroxiledev" /> </p>
