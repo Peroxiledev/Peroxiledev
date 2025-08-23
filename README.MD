@@ -14,7 +14,7 @@
 ### 🔗 Connect with Me  
 
 <p align="left">
-  <a href="https://t.me/Peroxile1" target="_blank">
+  <a href="https://t.me/Peroxile" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram - @Peroxile1" height="30" width="30">
   </a>
   
@@ -25,15 +25,6 @@
 
  <a href="https://discord.com/users/1244663537029091490" target="_blank">
     <img src="https://raw.githubusercontent.com/Peroxiledev/Peroxiledev/main/Discord_icon.png" alt="Discord" height="30" width="30">
-</a>
-
-
-<a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/Peroxiledev/Peroxiledev/main/mastodon-icon.png" alt="Mastodon" height="30" width="30">
-</a>
-
-<a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/Peroxiledev/Peroxiledev/main/Reddit_Logo.png" alt="Reddit" height="30" width="30">
 </a>
   
 </p>
